@@ -1,0 +1,17 @@
+{
+  "name": "nqm-databot-highway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "lodash": "^4.16.5",
+    "superagent": "^2.3.0",
+    "xml2js": "^0.4.17"
+  }
+}
